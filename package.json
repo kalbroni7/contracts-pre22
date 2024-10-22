@@ -86,9 +86,9 @@
     "@nomiclabs/hardhat-waffle": "^2.0.1",
     "@openzeppelin/contracts": "^3.4.0",
     "eslint-plugin-no-only-tests": "^2.6.0",
-    "ethereum-mars": "^0.1.7",
+    "ethereum-mars": "^0.2.1",
     "ethers": "5.0.18",
-    "hardhat": "^2.2.0",
+    "hardhat": "^2.11.0",
     "hardhat-typechain": "^0.3.5",
     "openzeppelin-solidity": "^2.4.0",
     "web3": "1.2.4"
